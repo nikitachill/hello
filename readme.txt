@@ -1,5 +1,4 @@
 Новый проект
 другая строка
 
-
-hello, git!!
+hello, giiiiiitttttt
