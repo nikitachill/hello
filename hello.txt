@@ -8,3 +8,4 @@ Hello,world
 taks taks taaaaks
 
 git status hello
+Hello, git rebase!
